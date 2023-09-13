@@ -76,4 +76,4 @@ We would like to express our gratitude to the open-source community and the deve
 
 Give Sivaji a try, and let it amaze you with its natural language processing capabilities, news updates, device control, and speech recognition. Feel free to contribute to this project and make Sivaji even better! If you have any questions or need assistance, don't hesitate to reach out.
 
-![Sivaji Logo](https://your-image-url.com/sivaji-logo.png)
+![Sivaji Logo](https://github.com/satiyaganes06/project-sivaji/blob/main/img/11111-removebg-preview.png?raw=true)
