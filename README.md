@@ -2,7 +2,7 @@
 
 Welcome to the Sivaji project, your ultimate AI companion for natural language processing! Sivaji is a powerful AI built using Python, OpenCV, TensorFlow, and various other APIs and packages. This project aims to create an AI that can engage in conversations, provide current news, control devices, and even recognize people among other exciting capabilities.
 
-![Sivaji AI]([https://your-image-url.com/sivaji-ai.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonkeylearn.com%2Fblog%2Fnlp-ai%2F&psig=AOvVaw01VcNnI05xKgSpNpTXCPjM&ust=1694691779433000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCIz_3Ap4EDFQAAAAAdAAAAABAE)
+![Sivaji AI]([[https://your-image-url.com/sivaji-ai.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonkeylearn.com%2Fblog%2Fnlp-ai%2F&psig=AOvVaw01VcNnI05xKgSpNpTXCPjM&ust=1694691779433000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCIz_3Ap4EDFQAAAAAdAAAAABAE](https://monkeylearn.com/static/6b2ad32d58b2ceece93e816b52b20d05/4394e/An_Introduction_to_NLP_in_AI-Thumbnail.webp))
 
 ## Features
 
